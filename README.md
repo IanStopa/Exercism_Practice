@@ -5,7 +5,7 @@ This file is for practicing exercises in various languages using Test Driven Dev
 Clone Repo to Local Filesystem:  
 `git clone https://github.com/IanStopa/Exercism_Practice.git`
 
-Check for any changes in repo:
+Check for any changes in repo:  
 `git pull`
 
 Add New Files and Commit:  
