@@ -5,7 +5,7 @@ This file is for practicing exercises in various languages using Test Driven Dev
 Clone Repo to Local Filesystem:  
 `git clone https://github.com/IanStopa/Exercism_Practice.git`
 
-Add New Files and Commit:
-`git add [Files/Folders]`
-`git commit -m "Message To Commit"`
-`git push origin main`
+Add New Files and Commit:  
+`git add [Files/Folders]`  
+`git commit -m "Message To Commit"`  
+`git push origin main`  
